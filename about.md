@@ -9,8 +9,8 @@ I am also active in the field of data science and machine learning and have work
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Report on my work: ...
 
 ### Contact me
 
-[email@domain.com](mailto:sheikhzada.ahmad@gmail.com)
+[sheikhzada.ahmad@gmail.com](mailto:sheikhzada.ahmad@gmail.com)
